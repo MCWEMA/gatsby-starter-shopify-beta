@@ -2,8 +2,8 @@ require("dotenv").config()
 
 module.exports = {
   siteMetadata: {
-    siteTitle: "gatsby-starter-shopify",
-    siteTitleDefault: "gatsby-starter-shopify by @GatsbyJS",
+    siteTitle: "gatsby-shopify-store",
+    siteTitleDefault: "gatsby-store-shopify by @GatsbyJS",
     siteUrl: "https://shopify-demo.gatsbyjs.com",
     hrefLang: "en",
     siteDescription:
